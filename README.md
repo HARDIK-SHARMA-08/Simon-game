@@ -1,4 +1,4 @@
-# Simon-game
+Simon Game Challenge
 Overview
 This is a simple implementation of the classic Simon game using HTML, CSS, and JavaScript/jQuery. The game randomly generates a sequence of colors, and the player must repeat the sequence by clicking on the corresponding colored buttons.
 
@@ -41,3 +41,8 @@ sounds/: Folder containing audio files for button presses and game events.
 
 Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
+
